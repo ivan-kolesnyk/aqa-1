@@ -1,0 +1,11 @@
+{
+  "name": "aqa-1",
+  "version": "1.0.0",
+  "description": "aqa education begining",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "ivk",
+  "license": "ISC"
+}
